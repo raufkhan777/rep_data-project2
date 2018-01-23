@@ -1,8 +1,8 @@
 # rep_data-project2
 
 Health and Economic Implications of Storms
-Daniel Maurath
-July, 2014
+Rauf khan
+jan 23 2018
 
 About
 This was the second project for the Reproducible Research course in Coursera's Data Science specialization track. The purpose of the project was to determine which storm event(s) had the most significant economic and health effects.
